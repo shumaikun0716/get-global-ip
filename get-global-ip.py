@@ -14,4 +14,4 @@ def get_global_ipv6():
     return ip_data['ip']
 
 global_ipv6 = get_global_ipv6()
-print(f"グローバルIPv6アドレス: {global_ipv6}")
+print(f"一時グローバルIPv6アドレス: {global_ipv6}")
