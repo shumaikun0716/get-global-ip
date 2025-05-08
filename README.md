@@ -7,3 +7,9 @@ You can be installed with the next command.
 ```
 $ pip install requests
 ```
+
+## Usage
+To run .py file with python. 
+```
+$ python get-global-ip.py
+```
